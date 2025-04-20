@@ -44,11 +44,4 @@ local whitelist = {
     "accwhite103"
 }
 
-local function isInWhitelist(value)
-    for _, v in ipairs(whitelist) do
-        if v == value then
-            return true
-        end
-    end
-    return false
-end
+return whitelist
