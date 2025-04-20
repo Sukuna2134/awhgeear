@@ -1,4 +1,5 @@
-local whitelist = {"awfgagewa",
+local whitelist = {
+"awfgagewa",
 "w_pop3458",
 "GDragon99913",
 "eieweufx",
@@ -42,4 +43,3 @@ local whitelist = {"awfgagewa",
 "jorgrrt032223",
 "accwhite103"
 }
-return whitelist
